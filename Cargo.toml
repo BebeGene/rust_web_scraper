@@ -1,0 +1,9 @@
+[package]
+name = "web_scraper"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+reqwest = { version = "0.11", features = ["json"] }  # HTTP requests
+scraper = "0.12"  # HTML parsing and scraping
+tokio = { version = "1", features = ["full"] }  # Asynchronous runtime
