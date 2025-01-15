@@ -16,3 +16,4 @@ This is a simple web scraper built with Rust that extracts headlines from a webp
 * cargo run
 
 ## Screenshots
+![AltText](https://github.com/BebeGene/rust_web_scraper/blob/master/Screenshots/Headlines.png)
